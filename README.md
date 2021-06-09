@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @sandaljain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sandaljain/sandaljain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Heylo,
+I code,
+I solder,
+I play violin,
+I eat a lot,
+I am @eight-bitguy
